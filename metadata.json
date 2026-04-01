@@ -1,0 +1,5 @@
+{
+  "name": "ESTUDO Study Tracker",
+  "description": "Sistema de acompanhamento de estudos para o ESTUDO com login e persistência em PHP/MySQL.",
+  "requestFramePermissions": []
+}
